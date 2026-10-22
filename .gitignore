@@ -1,0 +1,6 @@
+.vscode
+.DS_store
+desktop.ini
+*.jpg
+*.png
+test/
